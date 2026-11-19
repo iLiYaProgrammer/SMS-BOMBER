@@ -51,7 +51,6 @@ pip install requests urllib3
 [?] Enter Sleep Time Between Requests [Defult=0.1] - 
 ```
 
-📞 فرمت‌های مجاز شماره
 
 <div align="center">
 
