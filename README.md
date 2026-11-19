@@ -123,5 +123,3 @@ Tornado — https://img.shields.io/badge/Telegram-@ManHalamBade-blue?style=flat-
 ⭐ ستاره یادت نره ⭐
 
 </div>
-
----
