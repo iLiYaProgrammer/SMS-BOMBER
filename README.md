@@ -1,26 +1,24 @@
-
-```markdown
-# 📱 SMS Bomber - Multi-Service OTP Sender
+📱 SMS Bomber - Multi-Service OTP Sender
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-green?style=for-the-badge)
-![License](https://img.shields.io/badge/License-Educational-red?style=for-the-badge)
+https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python
+https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-green?style=for-the-badge
+https://img.shields.io/badge/License-Educational-red?style=for-the-badge
 
-**ارسال همزمان درخواست OTP به ۳۹ سرویس ایرانی با Multi-Threading**
+ارسال همزمان درخواست OTP به ۳۹ سرویس ایرانی با Multi-Threading
 
 </div>
 
 ---
 
-## ⚠️ سلب مسئولیت
+⚠️ سلب مسئولیت
 
-> فقط برای **اهداف آموزشی**. استفاده برای آزار، پیامک انبوه یا کار غیرقانونی **ممنوع** است. مسئولیت کامل با کاربر است.
+فقط برای اهداف آموزشی. استفاده برای آزار، پیامک انبوه یا کار غیرقانونی ممنوع است. مسئولیت کامل با کاربر است.
 
 ---
 
-## 🚀 نصب و اجرا
+🚀 نصب و اجرا
 
 ```bash
 git clone https://github.com/your-username/sms-bomber.git
@@ -125,4 +123,5 @@ Tornado — https://img.shields.io/badge/Telegram-@ManHalamBade-blue?style=flat-
 ⭐ ستاره یادت نره ⭐
 
 </div>
-```
+
+---
