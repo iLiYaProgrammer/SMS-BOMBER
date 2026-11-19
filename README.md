@@ -117,7 +117,7 @@ pip install requests urllib3
 
 ```text
 sms-bomber/
-├── main.py
+├── bomber.py
 ├── requirements.txt
 └── README.md
 ```
