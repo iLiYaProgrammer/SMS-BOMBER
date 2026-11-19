@@ -21,7 +21,7 @@
 🚀 نصب و اجرا
 
 ```bash
-git clone https://github.com/your-username/sms-bomber.git
+git clone https://github.com/iLiYaProgrammer/sms-bomber.git
 cd sms-bomber
 pip install -r requirements.txt
 python3 main.py
