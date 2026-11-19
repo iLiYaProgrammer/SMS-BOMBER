@@ -24,7 +24,7 @@
 git clone https://github.com/iLiYaProgrammer/sms-bomber.git
 cd sms-bomber
 pip install -r requirements.txt
-python3 main.py
+python3 bomber.py
 ```
 
 اگر requests نصب نباشد، خودکار نصب می‌شود.
