@@ -1,14 +1,10 @@
-عذرخواهی می‌کنم. مشکل دقیقاً از پیام قبلی بود که به اشتباه تمام خطوط جدول‌ها رو به هم چسبونده بودم و بج‌های تلگرام (لینک) رو هم بدون کد []() گذاشته بودم.
-
-این نسخه کاملاً سالم و استاندارد است. دقیقاً همه فاصله‌ها و اینترها درست است. کل متن زیر را کپی کن و در تب Code در گیت‌هاب پیست کن:
-
 📱 SMS Bomber - Multi-Service OTP Sender
 
 <div align="center">
 
-https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python
-https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-green?style=for-the-badge
-https://img.shields.io/badge/License-Educational-red?style=for-the-badge
+<img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" alt="Python" />
+<img src="https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-green?style=for-the-badge" alt="Platform" />
+<img src="https://img.shields.io/badge/License-Educational-red?style=for-the-badge" alt="License" />
 
 ارسال همزمان درخواست OTP به ۳۹ سرویس ایرانی با Multi-Threading
 
@@ -37,11 +33,11 @@ python3 main.py
 
 📦 کتابخانه‌های مورد نیاز
 
-کتابخانه نصب
+کتابخانه دستور نصب
 requests pip install requests
 urllib3 pip install urllib3
 
-یا یکجا:
+یا نصب همزمان:
 
 ```bash
 pip install requests urllib3
@@ -58,13 +54,13 @@ pip install requests urllib3
 
 📞 فرمت‌های شماره
 
-ورودی خروجی
+ورودی خروجی نرمال شده
 +989123456789 +989123456789
 989123456789 +989123456789
 09123456789 +989123456789
 9123456789 +989123456789
 
-⏱️ Sleep Time
+⏱️ زمان‌بندی (Sleep Time)
 
 · پیش‌فرض: 0.1 ثانیه
 · کمتر = سریع‌تر (احتمال بلاک بالاتر)
@@ -91,9 +87,9 @@ pip install requests urllib3
 
 ---
 
-🏗️ ساختار
+🏗️ ساختار پروژه
 
-```
+```text
 sms-bomber/
 ├── main.py
 ├── requirements.txt
@@ -116,7 +112,7 @@ Timeout Sleep Time را بیشتر کنید
 
 <div align="center">
 
-Tornado — https://img.shields.io/badge/Telegram-@ManHalamBade-blue?style=flat-square&logo=telegram
+Tornado — <img src="https://img.shields.io/badge/Telegram-@ManHalamBade-blue?style=flat-square&logo=telegram" alt="Telegram" />
 
 </div>
 
